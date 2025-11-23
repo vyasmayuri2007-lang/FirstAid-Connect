@@ -1,4 +1,4 @@
-#FirstAidConnect – AI First Aid Assistant
+# FirstAidConnect – AI First Aid Assistant
 
 FirstAidConnect is an interactive web application designed to provide quick and clear first-aid instructions for common medical emergencies. It features an AI-powered chatbot using Google Gemini that responds to user queries with helpful guidance. The project also includes a quiz section that allows users to test their basic first-aid knowledge. This system is built using HTML, CSS, Tailwind CSS, JavaScript for the frontend, and Python Flask as the backend framework. The project focuses on educational purposes and aims to improve first-aid awareness among users. It should not be used as a substitute for professional medical advice or emergency services
 
