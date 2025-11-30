@@ -5,15 +5,21 @@ FirstAidConnect is an interactive web application designed to provide quick and 
 # Features:
 
 1.Emergency Guide with step-by-step instructions
+
 2.AI Chat Assistant for real-time first-aid advice
+
 3.Quiz mode for learning and knowledge testing
+
 4.User-friendly and responsive interface
+
 5.Smooth navigation between different pages
 
 # Technologies Used:
 
 1.Frontend: HTML, CSS, Tailwind CSS, JavaScript
+
 2.Backend: Python (Flask)
+
 3.AI Integration: Google Gemini API
 
 #How It Works:
@@ -22,8 +28,11 @@ Users can explore first-aid categories like burns, bleeding, choking, and fractu
 # Installation Steps:
 
 1. Install Python and required libraries
+
 2. Add GEMINI_API_KEY inside a .env file
+
 3. Run python app.py in terminal
+
 4. Open http://127.0.0.1:5000/ in browser
 
 # Project Structure:
@@ -42,7 +51,11 @@ Medical ai/
 This project is for educational purposes only. It may not always provide accurate medical instructions. In real emergencies, contact medical professionals or emergency services immediately.
 
 # Future Scope:
+
 1.Voice assistant input
+
 2.Multi-language first-aid support
+
 3.Offline Progressive Web App (PWA) mode
+
 4.Emergency contact direct-call button
